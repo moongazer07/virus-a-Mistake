@@ -1,0 +1,1 @@
+X=MsgBox("Mbr overwritten",0+16,"virus!!")
